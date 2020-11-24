@@ -1,0 +1,3 @@
+[2019/09/25 08:12:14] start=0, train=78518, val=640, batch=4
+[2019/09/25 08:12:14] batch=4, config='MaskFlownet3_sp_ft.yaml', train_cfg='things3d_clean.yaml', clear_steps=True, checkpoint='642Sep22-0032'
+[2019/09/25 08:12:28] steps=1, epe=26.047233334094255, total_time=0.00
